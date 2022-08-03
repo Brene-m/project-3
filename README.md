@@ -58,5 +58,36 @@ The deliverables should explicitly address each step of the data science process
 *waterpoint_type_group : The kind of waterpoint
 ## visualizations
 ![image](https://user-images.githubusercontent.com/104469458/182607043-9a6d26d1-3199-4ce0-b5cf-0689996a18af.png)
+![image](https://user-images.githubusercontent.com/104469458/182607553-7332feda-9d51-4692-bfeb-76d73690d131.png)
+![image](https://user-images.githubusercontent.com/104469458/182607770-d2df4b51-ca42-4e18-8344-1cbfd89df089.png)
+# Conclusion
+*Many wells need repair compared to non-functional ones.
+*Best constructions were done in 2000-2005
+*Plenty of good quality water
+*Most of the water is not paid for.
+
+## Author
+
+@IreneWambui
+
+## Installation
+
+Install plotly with:
+
+`pip install plotly`
+
+## Feedback
+
+For any feedback, reach out to (@irenewambui37@gmail.com)
+
+## About me
+
+I am a data science student at Moringa School
+
+## Lesson learnt
+
+-Data modelling
+
+-Data analysis
 
 
