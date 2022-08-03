@@ -1,6 +1,7 @@
 # project-3
 # Tanzanian Water Well Project
 Tanzania, as a developing country, struggles with providing clean water to its population of over 57,000,000.
+
 ![image](https://user-images.githubusercontent.com/104469458/182610289-e319e0d6-1295-402e-950f-e40680483387.png)
 
 
